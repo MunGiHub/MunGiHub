@@ -47,4 +47,6 @@ Currently working as an **Undergraduate Research Assistant**, focusing on **Docu
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MunGiHub&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MunGiHub&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunGiHub&layout=compact)
