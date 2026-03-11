@@ -1,52 +1,36 @@
-# Hi, I'm Mungi 👋
+![banner](./banner.svg)
 
-Undergraduate student at **Busan University of Foreign Studies**  
-Major in **Cyber Police** & Double Major in **Computer Science**
-
-Currently working as an **Undergraduate Research Assistant**, focusing on **Document AI, OCR, and NLP-based information extraction** from unstructured documents.
-
----
 
 ## 🔬 Research Interests
 
-- Document AI  
-- Optical Character Recognition (OCR)  
-- Information Extraction from Unstructured Documents  
-- Retrieval-Augmented Generation (RAG)  
-- Natural Language Processing (NLP)
+Information Extraction  
+Natural Language Processing (NLP)  
+Retrieval-Augmented Generation (RAG)
 
 ---
 
-## 📂 Projects
+## 🎓 Education
 
-**LinksUp Project — Document AI Pipeline**
-
-- Built a pipeline to convert **unstructured PDF invoice documents into structured data for RAG systems**
-- Improved **retrieval efficiency** by analyzing complex document layouts
-- Reduced **LLM hallucination** through structured document preprocessing
-
-**OCR Benchmark (Ongoing Research)**
-
-- Comparative analysis of **Upstage OCR, Docling, and Chandra OCR**
-- Focus on **information extraction accuracy from invoice documents**
+Cyber Police & Computer Science  
+Busan University of Foreign Studies, South Korea
 
 ---
+
+## 📄 Publications
+
+**Information Extraction System for Unstructured Fishery Product Invoices using Semantic Schema and Domain Knowledge**  
+
+Mun-Gi Jeon*, Sungwon Lim, Pum-Mo Ryu  
+*HCLT 2025*
 
 ## 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
+Python | SQL | PyTorch | HuggingFace | Pandas | Git
 
 ---
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MunGiHub&show_icons=true&count_private=true)
+## 📬 Contact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunGiHub&layout=compact)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mungijn@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MunGiHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mungi-jeon-9a55723b6/))
