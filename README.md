@@ -29,6 +29,9 @@ Python | SQL | PyTorch | HuggingFace | Pandas | Git
 
 ---
 
+### 🔗 My log
+[https://username.github.io](https://mjeon01.github.io)
+
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mungijn@gmail.com)
